@@ -1,0 +1,23 @@
+.main-image{
+    width: 100%;
+    height: 25rem;
+    overflow: hidden;
+
+}
+.main-image img{
+width: 100%;
+height: 100%;
+
+}
+
+#container{
+    background-color: aliceblue;
+}
+#navbar{
+    background-color: blueviolet;
+}
+#content{
+    background-color: brown;
+}
+#footer, #header{
+background-color: orange;}
